@@ -1,3 +1,5 @@
+This is a fork. Original repo: https://github.com/skystrife/cpptoml
+
 # cpptoml
 A header-only library for parsing [TOML][toml] configuration files.
 
@@ -15,9 +17,6 @@ Alternatives:
   v0.4.0.
 - [tinytoml][tinytoml] is a C++11 implementation of a TOML parser, which
   also supports v0.4.0 as of November 2015.
-
-## Build Status
-[![Build Status](https://travis-ci.org/skystrife/cpptoml.svg?branch=master)](https://travis-ci.org/skystrife/cpptoml)
 
 ## Test Results
 The following test is the only failing test from [the toml-test
